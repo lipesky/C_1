@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">C_1</string>
+    <string name="title_activity_fruit_details">FruitDetails</string>
+    <string name="loading">Loading, please wait...</string>
+    <!-- Strings used for FruitDetails -->
+    <string name="details_tfvname_label">Name: </string>
+    <string name="details_botname_label">Botanical name: </string>
+    <string name="details_climate_label">Climate: </string>
+    <string name="details_description_label">Description: </string>
+    <string name="details_health_label">Health: </string>
+    <string name="details_othname_label">Other names: </string>
+    <string name="details_propagation_label">Propagation: </string>
+    <string name="details_soil_label">Soil: </string>
+    <string name="details_uses_label">Uses: </string>
+</resources>
